@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Portfolio Project: Activity Rewards App"
-date:       2018-05-08 14:48:19 +0000
+date:       2018-05-08 10:48:20 -0400
 permalink:  rails_portfolio_project_activity_rewards_app
 ---
 
@@ -14,7 +14,7 @@ All users are required to have either a local or remote account (GitHub in my ca
 
 The initial phase of the activity rewards app has 3 models: User, Achievement and Activity models and their relationships are: users can have many activities to follow and one activity can have many users. The achievement model represents the activities being followed (goals) by the users  an how many time they achieved it.
 
-The biggest challenge I faced during this project was while in the midst of my implementation I identified e.g. that regular user functionality needed to be shifted over from regular user to the administrator role. After the first shock, I could realize that changes were doable without starting over since I could move the logic easily from one controller to the other making some little adjustments in the view and of course the routing. I think the worst part was to get myself mentally ready for the change since it was a big structural one.
+The biggest challenge I faced during this project was while in the midst of my implementation I identified e.g. that regular user functionality needed to be shifted over from regular user to the administrator role. After the first shock, I could realize that changes were doable without starting over since I could move the logic easily from one controller to the other making some little adjustments in the view and of course the routing. 
 
 
 
