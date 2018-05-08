@@ -10,7 +10,7 @@ For our third portfolio project at Flatiron we were asked to build a Content Man
 
 The activity rewards app tracks points for specific user activities, which an administrator have assigned before. Some further statistical admin functionality is provided.
  
-All users are required to have either a local or remote account (GitHub in my case) for authentication purposes. Once they are authenticated they access to their profile page. The profile page differs from user role. When admin users access to their profile page they can add goals to existing users or edit existing goals. Admins can also search users by name and they have an overview of some user statistics in their profile page. Regular users profile page offers the possibility to update their achieved goals and see the total balance in their points account.
+All users are required to have either a local or remote account (GitHub in my case) for authentication purposes. Once they are authenticated they access to their profile page. The profile page differs by user role. When admin users access to their profile page they can add goals to existing users or edit existing goals. Admins can also search users by name and they have an overview of some user statistics in their profile page. Regular users profile page offers the possibility to update their achieved goals and see the total balance in their points account.
 
 The initial phase of the activity rewards app has 3 models: User, Achievement and Activity models and their relationships are: users can have many activities to follow and one activity can have many users. The achievement model represents the activities being followed (goals) by the users  an how many time they achieved it.
 
