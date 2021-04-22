@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "MyLists Javascript Portfolio"
-date:       2021-04-22 16:45:46 +0000
+date:       2021-04-22 12:45:47 -0400
 permalink:  mylists_javascript_portfolio
 ---
 
@@ -31,7 +31,7 @@ When the user clicks on submit, form data will be updated on the front- and back
 
 
 
-Feel free to checkout my Github [repo](https://github.com/Emanao/my-lists-js-portfolio-project).
+Feel free to checkout my Github [repo](https://github.com/Emanao/my-lists-js-portfolio-project) project.
 
 Thanks!
 
